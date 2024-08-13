@@ -20,7 +20,7 @@ function convertToBool(text, fault = 'true') {
 
 global.thumb = fs.readFileSync('./lib/bugs/XByte.png') //Don't change
 //////////////////////////////////////////////////////////
-const BOTNAME = 'X - B Y T E'; //BOT name
+const BOTNAME = '𝐿𝛥𝐷𝐿𝛥 𝛲𝑅𝛪𝛮𝐶𝛯'; //BOT name
 //////////////////////////////////////////////////////////
 const FOOTERNAME = '*Powered by TalkDrove*'; //Footer text
 
@@ -37,7 +37,7 @@ const FOOTERNAME = '*Powered by TalkDrove*'; //Footer text
 //----------------OWNER NUMBER------------------------------//
 //////////////////////////////////////////////////////////////////
 
-global.owner = process.env.OWNER_NUMBER  || '923072380380' ;  //put your number without +
+global.owner = process.env.OWNER_NUMBER  || '923307091090' ;  //put your number without +
 
 /////////////////////////////////////////////////////////////////
 //-------------------------------------------------------//
@@ -59,7 +59,7 @@ module.exports = { //exporting modules to use in plugins
 //----------------Session ID------------------------------//
 //////////////////////////////////////////////////////////////////
 
-SESSION_ID: process.env.SESSION_ID || '', //Paste your session ID here
+SESSION_ID: process.env.SESSION_ID || 'Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkJYUVhIOXFxeU5HWXZ3dklXUjMvaE41Q3YvaGNSNWR1aThKaDVkVTNsMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOWNJWFV2d2RhNVdkSHZNREJ4T1dGL2V4YS9zcGhZdlhSZ0lrRmdHWTRGYz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRRkMycHRGSEhqS3VGOFFLUHQyVWlPV2lPNTF5RkJVWVd2dlhQY0VnYWtZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ0UFlZeGNQODJ1eEx4MGd0T3V0OXE5eURrbVd4R1dqZytRQi96Z1Yxd1gwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndMK2xMZ3JEYnovSHliZlNtSUJHMmxBWXNUcHhETHF3MVF3cVV1SjVBMnc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNsN1ZYbmxRT1lER0RCNktCYS93Y3dMNElZb21EaVNIUElOMHJaeFZQVDA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaUJ5alF0Uk9VdVI1UDB3N2tPTnFsZHhpSTEzV1hKS1F6RWV1bldmZmxWTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRmhFT3ZIeDB3eEdzbXd6dnEyVmt6Nng0ZkEwT3NXc0xNTi9tNlV5Sk1HMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InBMSmcxRUEzd1JKeVhEQldTMW5kcnJSdFMyV2RHRmpzcS9uRVNLbm5zZUJyYmgrOGVLNzRzbDhkUWppUlQ1ekNUWFJzSnNUMUYyYmN2UHBtVGdmWWh3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTgsImFkdlNlY3JldEtleSI6ImVjZTA1aHlTa2hKanVZUy9oNFNuSkNVaFBnMkxEMERodEUwT1NXelZVM1E9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IjFaaEhnQjN4UktDaVVkU0x3Tjk5dEEiLCJwaG9uZUlkIjoiOTIyODgzMmQtM2QwZS00N2ZjLWI5NjQtNGNmOWJjMjdhMTZjIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ing1S0swd0dJWnd3QkJDVXV5OUFWelJVUmxoUT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJQYmtKVmlDMWEwcGxIYS8zMExRR2d2UzJ6NUE9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiRFNZRTM4QUQiLCJtZSI6eyJpZCI6IjkyMzMwNzA5MTA5MDoxQHMud2hhdHNhcHAubmV0IiwibmFtZSI6IlMifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1B1Z25ZVURFSmZuN0xVR0dBRWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImFIZHBvVUhLdnZLeXhMS0JoUkE2M3Q5Tk9vdHBYS2dBMXRxUWJFdUMzVWM9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImdZakVaWWJpM2NMYUtLQUZpWDNIOVRyTXk0dHhLZnMyY3VRU2lOVmk1YytmWlpGMnRHNWpId0JRRUN4cDQ1cTR1anlzY0lTNUxaVzFlRFREeGd1TURRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJZKzlTWDVyRWdJby91SlRJclVmYklkSWs0R3JoNytZaVpZeWYrUHZjNnZhNUV4MFZyTVk5Z3NFSUpkS3dObnlsV3kwVkhEcExCa3VpVVdYSmZzM2loUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkyMzMwNzA5MTA5MDoxQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQldoM2FhRkJ5cjd5c3NTeWdZVVFPdDdmVFRxTGFWeW9BTmJha0d4TGd0MUgifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjM1NDQ0ODQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBREd0In0=', //Paste your session ID here
 
 /////////////////////////////////////////////////////////////////
 //-------------------------------------------------------//
